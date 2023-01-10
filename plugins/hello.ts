@@ -4,6 +4,9 @@ export default defineNuxtPlugin(() => {
       hello(msg: string) {
         return `Hello ${msg}!`;
       },
+      happy(msg: string) {
+        return `Happy ${msg}!`;
+      },
     },
   };
 });
