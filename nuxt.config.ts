@@ -5,12 +5,7 @@ export default defineNuxtConfig({
     head: {
       title: 'Nuxt 3 sample',
       meta: [{ name: 'description', content: 'Nuxt 3 for beginners' }],
-      link: [
-        {
-          rel: 'icon',
-          href: 'https://raw.githubusercontent.com/nuxt/nuxtjs.org/main/static/icon.png',
-        },
-      ],
+      link: [{ rel: 'icon', href: '/icon.png' }],
     },
   },
 });
