@@ -3,6 +3,7 @@
     <NuxtLink to="/">Home2</NuxtLink> |
     <NuxtLink to="/about">About2</NuxtLink> |
     <NuxtLink to="/sample">sample</NuxtLink> |
+    <NuxtLink to="/users/list">userlist</NuxtLink> |
     <NuxtLink to="https://google.com" target="_blank">google</NuxtLink> |
     <NuxtLink></NuxtLink>
   </nav>
