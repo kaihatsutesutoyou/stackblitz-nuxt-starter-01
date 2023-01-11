@@ -1,6 +1,8 @@
 <template>
-  <slot name="header" />
-  <NavUsersbar />
-  <slot />
-  <slot name="footer" />
+  <div>
+    <slot name="header" />
+    <NavUsersbar />
+    <slot />
+    <slot name="footer" />
+  </div>
 </template>

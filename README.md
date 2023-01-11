@@ -4,6 +4,8 @@
 
 [Nuxt 3 を使いこなすために基礎から徹底解説](https://reffect.co.jp/vue/nuxt3)
 
+[Nuxt 3 公式ドキュメント 日本語訳](https://zenn.dev/torish/scraps/16676a3500ad99)
+
 [祝・正式リリース！5 つのテーマで理解する Nuxt3 の魅力](https://zenn.dev/ytr0903/articles/197f5386ca4309#usefetch-%2F-%24fetch-%E3%81%A7%E3%81%AE-server-routes-%E3%81%AE%E8%87%AA%E5%8B%95%E3%83%91%E3%82%B9%E8%A7%A3%E6%B1%BA%EF%BC%86%E5%9E%8B%E6%8E%A8%E8%AB%96)
 
 [Nuxt3 の Nitro でどれくらい早くなったか検証してみた](https://tech.smartcamp.co.jp/entry/nuxt3-nitro-performance)

@@ -1,14 +1,16 @@
 <template>
-  <h1>Main Page</h1>
-  <button @click="handleClick">Coupon {{ msg }}</button>
-  <LazyCoupon v-if="show" />
   <div>
-    {{ count }}
-    <button @click="inc">increase</button>
-    <button @click="dec">decrease</button>
+    <h1>Main Page</h1>
+    <button @click="handleClick">Coupon {{ msg }}</button>
+    <LazyCoupon v-if="show" />
+    <div>
+      {{ count }}
+      <button @click="inc">increase</button>
+      <button @click="dec">decrease</button>
+    </div>
+    <h2>{{ $hello('World') }}</h2>
+    <h2>{{ $happy('New Year') }}</h2>
   </div>
-  <h2>{{ $hello('World') }}</h2>
-  <h2>{{ $happy('New Year') }}</h2>
 </template>
 
 <script setup lang="ts">

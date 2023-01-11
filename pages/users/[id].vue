@@ -1,9 +1,11 @@
 <template>
-  <p>ユーザID: {{ $route.params.id }}</p>
-  <p>ユーザID: {{ router.params.id }}</p>
+  <div>
+    <p>ユーザID: {{ $route.params.id }}</p>
+    <p>ユーザID: {{ router.params.id }}</p>
+  </div>
 </template>
 
-<script setup>
+<script setup lang="ts">
 const router = useRoute();
 
 console.log(router.params.id);
