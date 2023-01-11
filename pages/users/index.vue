@@ -6,6 +6,10 @@
       <NuxtLink :to="id">{{ id }}</NuxtLink> |
       <input type="text" v-model="id" />
     </li>
+    <li>
+      <NuxtLink :to="'v' + id">{{ 'v' + id }}</NuxtLink> |
+      <input type="text" v-model="id" />
+    </li>
   </ul>
 </template>
 
