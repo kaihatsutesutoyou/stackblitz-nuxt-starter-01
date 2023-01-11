@@ -9,6 +9,6 @@
     <NuxtLink :to="{ name: 'users-list' }">user list</NuxtLink> |
     <NuxtLink to="/users/list">user list2</NuxtLink> |
     <NuxtLink to="https://google.com" target="_blank">google</NuxtLink> |
-    <NuxtLink></NuxtLink>
+    <NuxtLink to="/users/list">user list2</NuxtLink> |
   </nav>
 </template>

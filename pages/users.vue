@@ -1,6 +1,12 @@
 <template>
-  <div>
+  <NuxtLayout name="users">
     <h1>Usersページ</h1>
     <NuxtPage />
-  </div>
+  </NuxtLayout>
 </template>
+
+<script setup>
+definePageMeta({
+  layout: false,
+});
+</script>
