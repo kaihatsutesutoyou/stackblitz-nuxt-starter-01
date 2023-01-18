@@ -1,7 +1,9 @@
 # stackblitz-nuxt-starter-01
 
 NuxtStudy
+
 1.NuxtPage 内から layouts の名前付きスロットに設定はできない。
+
 2.template 内のルートを 1 タグのみにしなければいけないのは「　　」のみ
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/nuxt-starter-twaoct)
