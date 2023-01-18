@@ -10,5 +10,6 @@
     <NuxtLink to="/users/list">user list2</NuxtLink> |
     <NuxtLink to="https://google.com" target="_blank">google</NuxtLink> |
     <NuxtLink to="/users/list">user list2</NuxtLink> |
+    <NuxtLink to="/plain/">plain index</NuxtLink> |
   </nav>
 </template>
