@@ -33,3 +33,5 @@ NuxtStudy
 [次世代の Node.js ORM 、Prisma をサクッと入門する](https://zenn.dev/pyhrinezumi/articles/431be604f9ad50)
 
 [Nuxt3 入門(第 1 回) - Nuxt がサポートするレンダリングモードを理解する](https://developer.mamezou-tech.com/nuxt/nuxt3-rendering-mode/)
+
+[Tailwind CSS を使用した Web サイトのスタイル方法](https://www.twilio.com/ja/blog/style-your-website-with-tailwind-css-jp)
