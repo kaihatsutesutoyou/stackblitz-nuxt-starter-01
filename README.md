@@ -1,12 +1,14 @@
 # stackblitz-nuxt-starter-01
 
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/nuxt-starter-twaoct)
+
 NuxtStudy
 
 1.NuxtPage 内から layouts の名前付きスロットに設定はできない。
 
 2.template 内のルートを 1 タグのみにしなければいけないのは「　　」のみ
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/nuxt-starter-twaoct)
+[package.json の dependencies と devDependencies とは何か？|パッケージのバージョンの指定方法](https://prograshi.com/framework/nodejs/dependencies-and-devdependencies-in-package-json/)
 
 [Nuxt 3 を使いこなすために基礎から徹底解説](https://reffect.co.jp/vue/nuxt3)
 
@@ -29,3 +31,5 @@ NuxtStudy
 [ORM とはなんぞや](https://utouto97.hatenablog.com/entry/2021/07/21/224759)
 
 [次世代の Node.js ORM 、Prisma をサクッと入門する](https://zenn.dev/pyhrinezumi/articles/431be604f9ad50)
+
+[Nuxt3 入門(第 1 回) - Nuxt がサポートするレンダリングモードを理解する](https://developer.mamezou-tech.com/nuxt/nuxt3-rendering-mode/)
