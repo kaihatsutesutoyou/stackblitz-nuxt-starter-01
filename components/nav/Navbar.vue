@@ -11,5 +11,6 @@
     <NuxtLink to="https://google.com" target="_blank">google</NuxtLink> |
     <NuxtLink to="/users/list">user list2</NuxtLink> |
     <NuxtLink to="/plain/">plain index</NuxtLink> |
+    <NuxtLink to="/_tailwind/">tailwind template</NuxtLink> |
   </nav>
 </template>
