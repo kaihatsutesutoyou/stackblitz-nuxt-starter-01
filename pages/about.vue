@@ -1,5 +1,5 @@
 <template>
-  <h1>About Page</h1>
+  <h1 class="btn-blue">About Page</h1>
 </template>
 
 <script setup lang="ts">

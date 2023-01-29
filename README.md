@@ -2,15 +2,23 @@
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/nuxt-starter-twaoct)
 
-NuxtStudy
+# NuxtStudy
 
-1.NuxtPage 内から layouts の名前付きスロットに設定はできない。
+# 1.NuxtPage 内から layouts の名前付きスロットに設定はできない。
 
-2.template 内のルートを 1 タグのみにしなければいけないのは「　　」のみ
+# 2.「pages」ディレクトリの template タグ内のルートは 1 タグのみにしなければいけない
 
 [package.json の dependencies と devDependencies とは何か？|パッケージのバージョンの指定方法](https://prograshi.com/framework/nodejs/dependencies-and-devdependencies-in-package-json/)
 
 [Nuxt 3 を使いこなすために基礎から徹底解説](https://reffect.co.jp/vue/nuxt3)
+
+[Tailwind CSS を使う時に出くわす問題](https://zenn.dev/kote2/articles/e72764f8c075a9)
+
+[Nuxt.js に Tailwind を初めて使ってみるときの Tips](https://zenn.dev/kata_n/articles/2d4744d1bb6ab6)
+
+[利用者爆増中 初めてでもわかる Tailwind CSS 入門 基礎編](https://reffect.co.jp/html/tailwindcss-for-beginners)
+
+[TailwindCSS で モバイル縦画面表示時のみ消える要素を作る](https://zenn.dev/junki555/articles/45614f64695b77a2ae78)
 
 [Nuxt 3 公式ドキュメント 日本語訳](https://zenn.dev/torish/scraps/16676a3500ad99)
 
@@ -35,3 +43,13 @@ NuxtStudy
 [Nuxt3 入門(第 1 回) - Nuxt がサポートするレンダリングモードを理解する](https://developer.mamezou-tech.com/nuxt/nuxt3-rendering-mode/)
 
 [Tailwind CSS を使用した Web サイトのスタイル方法](https://www.twilio.com/ja/blog/style-your-website-with-tailwind-css-jp)
+
+[Nuxt3 で tailwindcss を使う](https://debug-life.net/entry/4104)
+
+[Vue3 では root に複数の要素 OK だけど Nuxt3 の page 配下は単一要素がいい](https://www.memory-lovers.blog/entry/2022/07/04/073000)
+
+[Nuxt3 ページごとにタイトルを変える](https://debug-life.net/entry/4214)
+
+[Functions & Directives](https://tailwindcss.com/docs/functions-and-directives)
+
+[Tailwind CSS に Prefix を追加する](https://absarcs.info/how-to/add-prefix-tailwind-css/)

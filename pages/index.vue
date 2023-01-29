@@ -1,3 +1,3 @@
 <template>
-  <h1 class="text-x1 text-red-800">Main Page</h1>
+  <h1 class="btn-blue">Main Page</h1>
 </template>
