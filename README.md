@@ -6,7 +6,7 @@
 
 # 1.NuxtPage 内から layouts の名前付きスロットに設定はできない。
 
-# 2.「pages」ディレクトリの template タグ内のルートは 1 タグのみにしなければいけない
+# 2.「pages」ディレクトリの template タグ内のルートは 1 タグのみ(NuxtLayout 等以外)にしなければいけない
 
 [package.json の dependencies と devDependencies とは何か？|パッケージのバージョンの指定方法](https://prograshi.com/framework/nodejs/dependencies-and-devdependencies-in-package-json/)
 
